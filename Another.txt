@@ -1,1 +1,3 @@
 Add lines from test_1.
+
+I am going to write some stuff in this folder to experiment with the outcomes of merging different changes without modifying the same file.
