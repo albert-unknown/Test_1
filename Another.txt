@@ -1,3 +1,9 @@
 Add lines from test_1.
 
+<<<<<<< HEAD
 WATASHIWA ARUBATO DESU
+=======
+I am going to write some stuff in this folder to experiment with the outcomes of merging different changes without modifying the same file.
+>>>>>>> 66c051afb74b7a24e96a7a33e51518c25678cede
+
+This is great.
